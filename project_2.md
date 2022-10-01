@@ -507,4 +507,4 @@ __*Result__
 
 ## __Congratulation done and dusted with LEMP__
 
-![congrats](/images/medal_2.PNG)
+![congrats](/images/medal_2.png)
