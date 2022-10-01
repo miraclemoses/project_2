@@ -378,7 +378,10 @@ content VARCHAR(255),PRIMARY KEY(item_id)
 ### Insert a few rows of content in the test table by runing this command
 
 \
-```mysql> INSERT INTO example_database.todo_list (content) VALUES ("My first important item");```
+```INSERT INTO example_database.todo_list (content) VALUES ("My first important item");
+INSERT INTO example_database.todo_list (content) VALUES ("My second important item");
+INSERT INTO example_database.todo_list (content) VALUES ("My third important item");
+INSERT INTO example_database.todo_list (content) VALUES ("and this one more thing");```
 
 \
 \
